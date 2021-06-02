@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Menacho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Menacho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Menacho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Menacho-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+
 </div>
   
   ##
